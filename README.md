@@ -11,10 +11,15 @@
 - 🔭 I’m currently working as a **Full-Stack Engineer** at **NielsenIQ**.
 - 🏆 Awarded the **Functional Award (Jan 2025)** for excellence in product development.
 - 🎓 B.Tech in CSE from **NIT Delhi** (Batch of 2023).
-- 🚀 Aiming for **SDE-2** roles in top-tier product-based companies.
+
 - 🧩 Solved **700+ problems on LeetCode** – Passionate about Data Structures & Algorithms.
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full-Stack+Engineer;MEAN+Stack+Specialist;700%2B+LeetCode+Solutions;Anime+%26+Manga+Enthusiast" alt="Typing SVG" />
+</p>
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ## 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -32,9 +37,10 @@ When I'm not debugging or optimizing APIs, you can find me:
 - 🤖 **Exploring AI:** Diving deep into LLMs and generative tools.
 - 🏯 **Anime & Manga:** Huge fan of **One Piece**, **Naruto**, **Black Clover**, and **Haikyu!!**. I love stories about resilience and triumph.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I1NmNjYTBhZGVmYTMwZTk5ZDRmZjVlM2I4ZjkzNjE0YjRmZjFlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DSxKEGOvaixl6/giphy.gif" width="400" alt="Luffy Anime GIF" />
-</p>
+## 🍱 Currently Obsessed With
+| One Piece | Haikyu!! | Black Clover |
+| :---: | :---: | :---: |
+| <img src="https://img.icons8.com/color/96/one-piece.png" width="50"/> | <img src="https://img.icons8.com/color/96/volleyball.png" width="50"/> | <img src="https://img.icons8.com/color/96/clover.png" width="50"/> |
 
 ---
 
@@ -47,7 +53,7 @@ When I'm not debugging or optimizing APIs, you can find me:
 ---
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn]([https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/](https://www.linkedin.com/in/aryan-gupta-610b01193/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/aryan-gupta-610b01193/)
 - 📧 [Email](mailto:aryangupta18099@gmail.com)
 
 *"The things we need to change are the things that are most difficult to change."* — **Manny (12th Fail)**
