@@ -1,59 +1,63 @@
-# Hi, I'm Aryan Gupta! 👋 
-### Full-Stack Engineer | MEAN Stack Enthusiast | Problem Solver
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Aryan4807&label=Profile%20views&color=0e75b6&style=flat" alt="Aryan Gupta" />
-</p>
-
----
-
-## 💫 About Me
-- 🔭 I’m currently working as a **Full-Stack Engineer** at **NielsenIQ**.
-- 🏆 Awarded the **Functional Award (Jan 2025)** for excellence in product development.
-- 🎓 B.Tech in CSE from **NIT Delhi** (Batch of 2023).
-
-- 🧩 Solved **700+ problems on LeetCode** – Passionate about Data Structures & Algorithms.
-
----
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full-Stack+Engineer;MEAN+Stack+Specialist;700%2B+LeetCode+Solutions;Anime+%26+Manga+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Aryan+Gupta;Full-Stack+Engineer;700%2B+LeetCode+Solutions;MEAN+Stack+Specialist" alt="Typing SVG" />
 </p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
-
-## 🛠 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 🍱 Beyond the Code (Interests)
-When I'm not debugging or optimizing APIs, you can find me:
-- 🤖 **Exploring AI:** Diving deep into LLMs and generative tools.
-- 🏯 **Anime & Manga:** Huge fan of **One Piece**, **Naruto**, **Black Clover**, and **Haikyu!!**. I love stories about resilience and triumph.
-
-## 🍱 Currently Obsessed With
-| One Piece | Haikyu!! | Black Clover |
-| :---: | :---: | :---: |
-| <img src="https://img.icons8.com/color/96/one-piece.png" width="50"/> | <img src="https://img.icons8.com/color/96/volleyball.png" width="50"/> | <img src="https://img.icons8.com/color/96/clover.png" width="50"/> |
-
----
-
-## 📈 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aryan4807&show_icons=true&theme=tokyonight" alt="Aryan's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan4807&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <a href="https://www.linkedin.com/in/aryan-gupta-610b01193/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aryangupta18099@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/aryan-gupta-610b01193/)
-- 📧 [Email](mailto:aryangupta18099@gmail.com)
+### 🚀 Professional Overview
+I am a **Full-Stack Engineer** at **NielsenIQ** with a focus on building scalable fintech solutions. I specialize in the **MEAN stack**. 
 
-*"The things we need to change are the things that are most difficult to change."* — **Manny (12th Fail)**
+- 🏆 **Award:** Recipient of the **Functional Award (Jan 2025)**.
+- 🎓 **Education:** B.Tech in CSE from **NIT Delhi** ('23).
+- 🧩 **DSA:** Solved **700+ problems** on LeetCode.
+
+---
+
+### 🛠 Tech Stack & Skills
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **DevOps/Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white) |
+
+---
+
+### 📈 Proficiency
+**Frontend (Angular/RxJS)**
+![90%](https://progress-bar.dev/90/?title=Proficiency&color=dd0031)
+
+**Backend (Node/Express)**
+![85%](https://progress-bar.dev/85/?title=Proficiency&color=339933)
+
+**DSA & Problem Solving**
+![95%](https://progress-bar.dev/95/?title=Proficiency&color=007acc)
+
+---
+
+### 🍱 Hobbies & Interests
+- 🤖 **AI/ML:** Exploring LLM integrations and automation.
+- 🏯 **Anime & Manga:** Huge fan of *One Piece*, *Naruto*, and *Haikyu!!*.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I1NmNjYTBhZGVmYTMwZTk5ZDRmZjVlM2I4ZjkzNjE0YjRmZjFlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DSxKEGOvaixl6/giphy.gif" width="300" />
+</p>
+
+---
+
+### 📊 My GitHub Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan4807&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan4807&theme=tokyonight" alt="Streak" />
+</p>
