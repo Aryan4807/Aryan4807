@@ -51,9 +51,8 @@ I am a **Full-Stack Engineer** at **NielsenIQ** with a focus on building scalabl
 - 🏯 **Anime & Manga:** Huge fan of *One Piece*, *Naruto*, and *Haikyu!!*.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I1NmNjYTBhZGVmYTMwZTk5ZDRmZjVlM2I4ZjkzNjE0YjRmZjFlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DSxKEGOvaixl6/giphy.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/luffy_dance.gif" width="300" alt="Luffy Dancing" />
 </p>
-
 ---
 
 ### 📊 My GitHub Metrics
