@@ -6,9 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=Aryan4807&label=Profile+Views&color=36BCF7&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- Typing Animation -->
+<!-- Typing Animation — demolab.com is reliable -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Aryan+%F0%9F%91%8B;Full-Stack+Engineer+%40+NielsenIQ;MEAN+Stack+Specialist+%E2%9A%A1;700%2B+LeetCode+Warrior+%F0%9F%8F%86;Building+Scalable+Fintech+Solutions+%F0%9F%9A%80;One+Piece+%7C+Naruto+%7C+Haikyu+Fan+%F0%9F%8F%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Hey+there!+I'm+Aryan+%F0%9F%91%8B;Full-Stack+Engineer+%40+NielsenIQ;MEAN+Stack+Specialist+%E2%9A%A1;700%2B+LeetCode+Warrior+%F0%9F%8F%86;Building+Scalable+Fintech+Solutions+%F0%9F%9A%80;One+Piece+%7C+Naruto+%7C+Haikyu+Fan+%F0%9F%8F%AF" alt="Typing SVG" />
 </p>
 
 <!-- Social Badges -->
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://github.com/Aryan4807" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -35,16 +35,16 @@
 
 ```typescript
 const aryan: Developer = {
-  name:       "Aryan Gupta",
-  role:       "Full-Stack Engineer @ NielsenIQ",
-  education:  "B.Tech CSE — NIT Delhi ('23)",
-  location:   "India 🇮🇳",
-  award:      "🏆 Functional Award — Jan 2025",
-  dsa:        "700+ LeetCode problems solved",
-  stack:      ["Angular", "Node.js", "Express", "MongoDB", "Redis", "AWS"],
-  interests:  ["Fintech", "LLM Integrations", "System Design", "Anime 🏯"],
+  name:              "Aryan Gupta",
+  role:              "Full-Stack Engineer @ NielsenIQ",
+  education:         "B.Tech CSE — NIT Delhi ('23)",
+  location:          "India 🇮🇳",
+  award:             "🏆 Functional Award — Jan 2025",
+  dsa:               "700+ LeetCode problems solved",
+  stack:             ["Angular", "Node.js", "Express", "MongoDB", "Redis", "AWS"],
+  interests:         ["Fintech", "LLM Integrations", "System Design", "Anime 🏯"],
   currentlyBuilding: "Scalable fintech microservices",
-  funFact:    "I debug with console.log and I'm not ashamed 😄",
+  funFact:           "I debug with console.log and I am not ashamed 😄",
 };
 ```
 
@@ -59,36 +59,58 @@ const aryan: Developer = {
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,figma&theme=dark&perline=6" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,rxjs,jest,linux&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,jest,linux,vscode&theme=dark&perline=6" />
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
 
+<!--
+  ⚠️  IMPORTANT — READ THIS:
+  The public github-readme-stats.vercel.app is rate-limited and WILL show blank images.
+  Replace YOUR_VERCEL_APP_URL below with your own deployed instance URL.
+  Setup takes 5 minutes — see the "Fix Blank Images" section at the bottom of this README.
+  
+  Until then, summary-cards below (profile-summary-cards.vercel.app) works without a token.
+-->
+
+<!-- Profile Summary Cards — works without any token/deployment -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan4807&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan4807&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan4807&theme=tokyonight" alt="Profile Summary"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan4807&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryan4807&theme=tokyonight" alt="Repos Per Language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aryan4807&theme=tokyonight" alt="Most Commit Language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryan4807&theme=tokyonight" alt="Stats"/>
+</p>
+
+<!-- Streak — streak-stats.demolab.com is reliably hosted, works without a token -->
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com/?user=Aryan4807&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
+<!--
+  ⚠️  Same rate-limit issue as stats. After you deploy your own stats instance,
+  the trophy URL below (self-hosted) will also work. For now it uses the public URL —
+  if it's blank, the "Fix Blank Images" guide below explains the permanent fix.
+-->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryan4807&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryan4807&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=4" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ## 📈 Contribution Activity
 
+<!-- activity-graph uses its own Vercel instance — generally reliable -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan4807&theme=tokyo-night&hide_border=true&area=true&custom_title=Aryan's%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan4807&bg_color=1a1b27&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=1e6fa5&hide_border=true&custom_title=Aryan's%20Contribution%20Graph" alt="Activity Graph"/>
 </p>
 
 ---
@@ -96,7 +118,7 @@ const aryan: Developer = {
 ## ⚔️ LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Aryan4807?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" width="60%"/>
+  <img src="https://leetcard.jacoblin.cool/Aryan4807?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" width="55%"/>
 </p>
 
 ---
@@ -105,34 +127,24 @@ const aryan: Developer = {
 
 <table align="center">
   <tr>
-    <td><b>Angular / RxJS</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-90%25-dd0031?style=flat-square&labelColor=1a1a2e" />
-    </td>
+    <td align="right"><b>Angular / RxJS</b></td>
+    <td><img src="https://img.shields.io/badge/90%25-■■■■■■■■■□-dd0031?style=flat-square&labelColor=1a1a2e&color=dd0031" /></td>
   </tr>
   <tr>
-    <td><b>Node.js / Express</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓░░-85%25-339933?style=flat-square&labelColor=1a1a2e" />
-    </td>
+    <td align="right"><b>Node.js / Express</b></td>
+    <td><img src="https://img.shields.io/badge/85%25-■■■■■■■■□□-339933?style=flat-square&labelColor=1a1a2e&color=339933" /></td>
   </tr>
   <tr>
-    <td><b>DSA & Problem Solving</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓-95%25-FFA116?style=flat-square&labelColor=1a1a2e" />
-    </td>
+    <td align="right"><b>DSA & Problem Solving</b></td>
+    <td><img src="https://img.shields.io/badge/95%25-■■■■■■■■■■-FFA116?style=flat-square&labelColor=1a1a2e&color=FFA116" /></td>
   </tr>
   <tr>
-    <td><b>MongoDB / Redis</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓░░-80%25-47A248?style=flat-square&labelColor=1a1a2e" />
-    </td>
+    <td align="right"><b>MongoDB / Redis</b></td>
+    <td><img src="https://img.shields.io/badge/80%25-■■■■■■■■□□-47A248?style=flat-square&labelColor=1a1a2e&color=47A248" /></td>
   </tr>
   <tr>
-    <td><b>AWS / DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/▓▓▓▓▓▓░░░░-70%25-FF9900?style=flat-square&labelColor=1a1a2e" />
-    </td>
+    <td align="right"><b>AWS / DevOps</b></td>
+    <td><img src="https://img.shields.io/badge/70%25-■■■■■■■□□□-FF9900?style=flat-square&labelColor=1a1a2e&color=FF9900" /></td>
   </tr>
 </table>
 
@@ -147,12 +159,12 @@ const aryan: Developer = {
         <li>🤖 <b>AI/ML:</b> Exploring LLM integrations & automation pipelines</li>
         <li>🏯 <b>Anime:</b> Huge fan of <i>One Piece</i>, <i>Naruto</i> & <i>Haikyu!!</i></li>
         <li>🎯 <b>Goal:</b> Crack system design at FAANG-level scale</li>
-        <li>📚 <b>Learning:</b> Microservices, Kafka, and distributed systems</li>
+        <li>📚 <b>Learning:</b> Microservices, Kafka & distributed systems</li>
         <li>☕ <b>Fuel:</b> Code + Coffee + Anime OSTs</li>
       </ul>
     </td>
     <td align="center" width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding gif"/>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding gif"/>
     </td>
   </tr>
 </table>
@@ -165,16 +177,68 @@ const aryan: Developer = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan4807/Aryan4807/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan4807/Aryan4807/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aryan4807/Aryan4807/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Aryan4807/Aryan4807/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
-> **💡 Note:** To activate the snake animation, add this GitHub Action to your repo at `.github/workflows/snake.yml` — see setup instructions below.
+---
+
+## 🔧 Fix Blank Stats & Trophy Images (Permanent Solution)
 
 <details>
-<summary>🔧 <b>Snake Animation Setup (click to expand)</b></summary>
+<summary><b>Why images break + how to fix in 5 minutes (click to expand)</b></summary>
 
-Create `.github/workflows/snake.yml` in your profile repo:
+<br/>
+
+### Why it breaks
+`github-readme-stats.vercel.app` and `github-profile-trophy.vercel.app` are **shared public deployments** used by millions of developers. GitHub rate-limits their API token, so your stats card returns an empty response.
+
+### The fix — deploy your own free instance
+
+**Step 1 — Fork the repo**
+- Go to: https://github.com/anuraghazra/github-readme-stats
+- Click **Fork** → Fork to your account
+
+**Step 2 — Create a GitHub Personal Access Token**
+- Go to: https://github.com/settings/tokens
+- Click **Generate new token (classic)**
+- Select scope: `repo` (read:user is enough)
+- Copy the token
+
+**Step 3 — Deploy to Vercel (free)**
+- Go to: https://vercel.com → Sign in with GitHub
+- Click **Add New Project** → Import your forked `github-readme-stats` repo
+- In **Environment Variables**, add:
+  - Key: `PAT_1`  |  Value: `(paste your token)`
+- Click **Deploy**
+
+**Step 4 — Update your README**
+
+Replace every instance of:
+```
+https://github-readme-stats.vercel.app/api
+```
+with:
+```
+https://YOUR-APP-NAME.vercel.app/api
+```
+
+Replace trophies URL:
+```
+https://github-profile-trophy.vercel.app/?username=Aryan4807
+```
+> For trophies you can also fork https://github.com/ryo-ma/github-profile-trophy and deploy separately.
+
+That's it — your stats will load instantly every time, forever. ✅
+
+</details>
+
+<details>
+<summary><b>🐍 Snake Animation — GitHub Actions Setup (click to expand)</b></summary>
+
+<br/>
+
+Create `.github/workflows/snake.yml` in your `Aryan4807/Aryan4807` repo:
 
 ```yaml
 name: Generate Snake Animation
@@ -193,9 +257,8 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -203,7 +266,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
@@ -211,6 +274,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
+
+After adding: go to **Actions tab → "Generate Snake Animation" → Run workflow** to trigger it immediately.
+
 </details>
 
 ---
