@@ -1,17 +1,14 @@
 <!-- Header Wave Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aryan%20Gupta&fontSize=60&fontColor=36BCF7&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20NIT%20Delhi%20%7C%20NielsenIQ&descAlignY=60&descSize=18&descColor=a8dadc&animation=fadeIn" />
 
-<!-- Profile Views Counter -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Aryan4807&label=Profile+Views&color=36BCF7&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- Typing Animation — demolab.com is reliable -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Hey+there!+I'm+Aryan+%F0%9F%91%8B;Full-Stack+Engineer+%40+NielsenIQ;MEAN+Stack+Specialist+%E2%9A%A1;700%2B+LeetCode+Warrior+%F0%9F%8F%86;Building+Scalable+Fintech+Solutions+%F0%9F%9A%80;One+Piece+%7C+Naruto+%7C+Haikyu+Fan+%F0%9F%8F%AF" alt="Typing SVG" />
 </p>
 
-<!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-gupta-610b01193/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -21,6 +18,9 @@
   </a>
   <a href="https://leetcode.com/Aryan4807/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/agg4807" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
   <a href="https://github.com/Aryan4807" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -66,16 +66,6 @@ const aryan: Developer = {
 
 ## 📊 GitHub Analytics
 
-<!--
-  ⚠️  IMPORTANT — READ THIS:
-  The public github-readme-stats.vercel.app is rate-limited and WILL show blank images.
-  Replace YOUR_VERCEL_APP_URL below with your own deployed instance URL.
-  Setup takes 5 minutes — see the "Fix Blank Images" section at the bottom of this README.
-  
-  Until then, summary-cards below (profile-summary-cards.vercel.app) works without a token.
--->
-
-<!-- Profile Summary Cards — works without any token/deployment -->
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan4807&theme=tokyonight" alt="Profile Summary"/>
 </p>
@@ -86,29 +76,44 @@ const aryan: Developer = {
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryan4807&theme=tokyonight" alt="Stats"/>
 </p>
 
-<!-- Streak — streak-stats.demolab.com is reliably hosted, works without a token -->
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com/?user=Aryan4807&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Highlights
 
-<!--
-  ⚠️  Same rate-limit issue as stats. After you deploy your own stats instance,
-  the trophy URL below (self-hosted) will also work. For now it uses the public URL —
-  if it's blank, the "Fix Blank Images" guide below explains the permanent fix.
--->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryan4807&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=4" alt="GitHub Trophies"/>
+  <img src="https://img.shields.io/badge/🏅%20Functional%20Award-NielsenIQ%20Jan%202025-FFD700?style=for-the-badge&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎓%20NIT%20Delhi-B.Tech%20CSE%20'23-36BCF7?style=for-the-badge&labelColor=1a1a2e" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚔️%20LeetCode-700%2B%20Problems%20Solved-FFA116?style=for-the-badge&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🧠%20DSA-Top%205%25%20Problem%20Solver-00b4d8?style=for-the-badge&labelColor=1a1a2e" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡%20MEAN%20Stack-Full%20Stack%20Specialist-DD0031?style=for-the-badge&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🚀%20Fintech-Scalable%20Solutions%20Builder-339933?style=for-the-badge&labelColor=1a1a2e" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/☁️%20AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🐳%20Docker-Containerization%20Pro-2496ED?style=for-the-badge&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🤖%20AI%2FML-LLM%20Explorer-a855f7?style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
 ---
 
 ## 📈 Contribution Activity
 
-<!-- activity-graph uses its own Vercel instance — generally reliable -->
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan4807&bg_color=1a1b27&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=1e6fa5&hide_border=true&custom_title=Aryan's%20Contribution%20Graph" alt="Activity Graph"/>
 </p>
@@ -180,58 +185,6 @@ const aryan: Developer = {
     <img alt="snake animation" src="https://raw.githubusercontent.com/Aryan4807/Aryan4807/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
-
----
-
-## 🔧 Fix Blank Stats & Trophy Images (Permanent Solution)
-
-<details>
-<summary><b>Why images break + how to fix in 5 minutes (click to expand)</b></summary>
-
-<br/>
-
-### Why it breaks
-`github-readme-stats.vercel.app` and `github-profile-trophy.vercel.app` are **shared public deployments** used by millions of developers. GitHub rate-limits their API token, so your stats card returns an empty response.
-
-### The fix — deploy your own free instance
-
-**Step 1 — Fork the repo**
-- Go to: https://github.com/anuraghazra/github-readme-stats
-- Click **Fork** → Fork to your account
-
-**Step 2 — Create a GitHub Personal Access Token**
-- Go to: https://github.com/settings/tokens
-- Click **Generate new token (classic)**
-- Select scope: `repo` (read:user is enough)
-- Copy the token
-
-**Step 3 — Deploy to Vercel (free)**
-- Go to: https://vercel.com → Sign in with GitHub
-- Click **Add New Project** → Import your forked `github-readme-stats` repo
-- In **Environment Variables**, add:
-  - Key: `PAT_1`  |  Value: `(paste your token)`
-- Click **Deploy**
-
-**Step 4 — Update your README**
-
-Replace every instance of:
-```
-https://github-readme-stats.vercel.app/api
-```
-with:
-```
-https://YOUR-APP-NAME.vercel.app/api
-```
-
-Replace trophies URL:
-```
-https://github-profile-trophy.vercel.app/?username=Aryan4807
-```
-> For trophies you can also fork https://github.com/ryo-ma/github-profile-trophy and deploy separately.
-
-That's it — your stats will load instantly every time, forever. ✅
-
-</details>
 
 <details>
 <summary><b>🐍 Snake Animation — GitHub Actions Setup (click to expand)</b></summary>
