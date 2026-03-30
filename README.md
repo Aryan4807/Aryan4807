@@ -82,6 +82,16 @@ const aryan: Developer = {
 
 ---
 
+## 🟢 GeeksForGeeks Stats
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/agg4807" target="_blank">
+    <img src="https://gfgstatscard.vercel.app/agg4807" alt="GFG Stats" width="420"/>
+  </a>
+</p>
+
+---
+
 ## 🏆 Achievements & Highlights
 
 <p align="center">
